@@ -1,0 +1,7 @@
+export const db = {
+	  "host"     : "localhost",
+	  "user"     : "myuser",
+	  "password" : "mypass",
+	  "database" : "anvil"
+	}
+
